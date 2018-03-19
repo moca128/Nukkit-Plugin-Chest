@@ -1,0 +1,5 @@
+name: PSMPlugin
+main: moca.plugin.psmplugin.Main
+version: 0.0.1
+author: moca128
+api: ["1.0.0"]
